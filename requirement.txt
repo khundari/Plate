@@ -1,5 +1,5 @@
 python==3.9
+!pip install opencv-python-headless
 streamlit
-opencv-python-headless
 imutils==0.5.4
 pytesseract==0.3.13
