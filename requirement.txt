@@ -1,4 +1,4 @@
-python==3.9
+python==3.8
 !pip install opencv-python-headless
 streamlit
 imutils==0.5.4
