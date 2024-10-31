@@ -1,5 +1,5 @@
 streamlit==1.39.0
-opencv-python==4.10.0.84
+pip install opencv-python
 imutils==0.5.4
 pytesseract==0.3.13
 numpy  
